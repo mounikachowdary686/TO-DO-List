@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "A modern, colourful task management website to organise your work and own your day with real-time Supabase sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
